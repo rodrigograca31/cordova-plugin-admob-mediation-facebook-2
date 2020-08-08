@@ -1,0 +1,28 @@
+{
+	"name": "cordova-plugin-admob-mediation-facebook-2",
+	"version": "5.0.0",
+	"description": "Cordova AdMob Mediation Plugin for Facebook Audience Network",
+	"scripts": {
+		"version": "sync-package-version --cordova-plugin"
+	},
+	"cordova": {
+		"id": "cordova-plugin-admob-mediation-facebook-2",
+		"platforms": [
+			"android",
+			"ios"
+		]
+	},
+	"author": "Rodrigo Graça",
+	"license": "MIT",
+	"keywords": [
+		"cordova-android",
+		"cordova-ios",
+		"cordova",
+		"plugin",
+		"admob",
+		"facebook",
+		"mediation"
+	],
+	"repository": "https://github.com/rodrigograca31/cordova-plugin-admob-mediation-facebook-2",
+	"homepage": "https://github.com/rodrigograca31/cordova-plugin-admob-mediation-facebook-2"
+}
